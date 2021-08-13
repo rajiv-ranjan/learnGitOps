@@ -1,3 +1,4 @@
 # kustomization.yaml contents
 resources:
 - pod.yaml
+#- deployment.yaml

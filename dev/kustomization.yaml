@@ -1,4 +1,4 @@
 # kustomization.yaml contents
 resources:
-- ./../base
+- ./../base/
 namePrefix: dev-
