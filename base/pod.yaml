@@ -8,4 +8,4 @@ metadata:
 spec:
   containers:
   - name: nginx
-    image: nginx:latest
+    image: registry.redhat.io/rhel8/nginx-116:1-105
